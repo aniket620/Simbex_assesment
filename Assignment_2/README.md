@@ -12,7 +12,7 @@ import sys
 
 # Compilation Instruction
 
-## Running environment : Linux OS or MAC OS with python 3
+## Running environment : WINDOWS OS with python 3
 
 
 Please copy the data file you want to process to the current directory and run:
